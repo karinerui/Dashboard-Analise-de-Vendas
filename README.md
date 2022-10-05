@@ -11,6 +11,8 @@ Fazer a gestão de faturamento é necessária para manter uma empresa funcionand
 
 **Ferramenta:** Power BI na criação do dashboard e o tratamento dos dados (ETL) no Power Query Editor.
 
+![](dashboard.PNG)
+
 **Resultados:** Para este problema da análise de vendas de uma rede de supermercado foram analisadas as seguintes variáveis: ticket médio por cliente, quantidade de produtos vendidos, faturamento total, satisfação do cliente, quantidade de clientes, faturamento diário, sexo dos clientes, tipo de pagamento e análise de categorias de produtos vendidos na rede. As variáveis foram analisadas em cada filial A, B e C do supermercado.
 
 O ticket médio da rede é de $322,97, tendo uma quantidade igual a 5510 produtos vendidos nos três meses com um faturamento de $322,97 mil doláres. A satisfação dos 1000 clientes é de 6,97. O setor que traz mais faturamento é a categoria de comidas e bebidas. O dia que mais teve vendas foi 7 de fevereiro, o tipo de pagamento mais usado nas compras é dinheiro e na distribuição do perfil de clientes de modo geral há aproximadamente o mesmo número de clientes masculino e feminino.
