@@ -7,7 +7,7 @@ Fazer a gestão de faturamento é necessária para manter uma empresa funcionand
 
 **Objetivo:** Fazer uma análise de vendas de uma rede de supermercados que tem três lojas e forneceu dados durante três meses. Conhecer a receita bruta de cada unidade da empresa e não só do total, qual é a satisfação dos clientes, como está o funcionamento de cada setor do mercado, qual é o produto que vende mais, qual é o ticket médio, quantos clientes tem, qual é o dia que vende mais, qual o tipo de pagamento mais usado.
 
-**Dataset:** O conjunto de dados é um dos históricos de vendas da empresa de supermercados que registrou dados em 3 filiais diferentes (identificadas por A, B e C) por 3 meses. Dados foram extraídos do kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
+**Dataset:** O conjunto de dados é um dos históricos de vendas da empresa de supermercados que registrou dados em 3 filiais diferentes (identificadas por A, B e C) por 3 meses. Dados foram extraídos do Kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
 
 **Ferramenta:** Power BI na criação do dashboard e o tratamento dos dados (ETL) no Power Query Editor.
 
