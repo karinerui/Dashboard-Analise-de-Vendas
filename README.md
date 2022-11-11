@@ -9,11 +9,13 @@ Fazer a gestão de faturamento é necessária para manter uma empresa funcionand
 
 **Dataset:** O conjunto de dados é um dos históricos de vendas da empresa de supermercados que registrou dados em 3 filiais diferentes (identificadas por A, B e C) por 3 meses. Dados foram extraídos do Kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
 
+## Desenvolvimento
+
 **Ferramenta:** Power BI na criação do dashboard e o tratamento dos dados (ETL) no Power Query Editor.
 
-![](dashboard.PNG)
-
 **Resultados:** Para este problema da análise de vendas de uma rede de supermercado foram analisadas as seguintes variáveis: ticket médio por cliente, quantidade de produtos vendidos, faturamento total, satisfação do cliente, quantidade de clientes, faturamento diário, sexo dos clientes, tipo de pagamento e análise de categorias de produtos vendidos na rede. As variáveis foram analisadas em cada filial A, B e C do supermercado.
+
+![](dashboard.PNG)
 
 O ticket médio da rede é de $322,97, tendo uma quantidade igual a 5510 produtos vendidos nos três meses com um faturamento de $322,97 mil doláres. A satisfação dos 1000 clientes é de 6,97. O setor que traz mais faturamento é a categoria de comidas e bebidas. O dia que mais teve vendas foi 7 de fevereiro, o tipo de pagamento mais usado nas compras é dinheiro e na distribuição do perfil de clientes de modo geral há aproximadamente o mesmo número de clientes masculino e feminino.
 
@@ -27,9 +29,11 @@ Ao analisar os dados por filial da rede de supermercado observa-se:
 
 Nota-se que a loja C é a filial que possui o maior ticket médio, o maior faturamento e também a maior satisfação dos clientes. A loja A teve uma maior quantidade de produtos vendidos e possui uma quantidade um pouco maior de clientes do que as lojas B e C. Em relação ao perfil dos clientes a loja C apresenta um maior número de clientes do sexo feminino enquanto que nas lojas A e B são clientes do sexo masculino. A loja B por sua vez teve o menor número de produtos vendidos, e a menor satisfação dos clientes.
 
-**Conclusão:** A partir dessa análise os resultados mostram que a rede de supermercados pode implementar melhorias nas lojas A e B para que a satisfação dos clientes aumente e se aproxime da loja C.
+## Conclusão
 
-Para maiores informações acesse: https://app.powerbi.com/view?r=eyJrIjoiZmVjMTI5MTItMTlkNi00NmZiLWIzMjItZjZmYmIwMGRhZWYzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&pageName=ReportSection
+A partir dessa análise os resultados mostram que a rede de supermercados pode implementar melhorias nas lojas A e B para que a satisfação dos clientes aumente e se aproxime da loja C.
+
+**Para acessar e navegar pelo dashboard no Power BI**, clique [aqui](https://app.powerbi.com/view?r=eyJrIjoiZmVjMTI5MTItMTlkNi00NmZiLWIzMjItZjZmYmIwMGRhZWYzIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&pageName=ReportSection )
 
 Projeto desenvolvido no curso "Data Insights" do Programa Dominando Data Science 3.0 oferecido pela FLAI - Inteligência Artificial e Data Science. 
 
